@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\Source\Repos\leetcode14\leetcode14\main.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ASUS\Source\Repos\leetcode14\leetcode14\main.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  leetcode14.vcxproj -> C:\Users\ASUS\Source\Repos\leetcode14\Debug\leetcode14.exe
