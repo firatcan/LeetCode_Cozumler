@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\leet_code_benim\leetcode26\leetcode26\Source.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\leet_code_benim\leetcode26\leetcode26\Source.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  leetcode26.vcxproj -> D:\leet_code_benim\leetcode26\Debug\leetcode26.exe
