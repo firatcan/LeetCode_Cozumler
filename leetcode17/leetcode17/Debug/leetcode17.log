@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(70,22): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(90,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\leet_code_benim\leetcode17\leetcode17\Source.cpp(99,20): warning C4018: '<': signed/unsigned mismatch
+  leetcode17.vcxproj -> D:\leet_code_benim\leetcode17\Debug\leetcode17.exe

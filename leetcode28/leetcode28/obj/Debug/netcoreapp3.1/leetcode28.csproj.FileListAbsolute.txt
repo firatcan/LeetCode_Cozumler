@@ -1,0 +1,13 @@
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.exe
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.deps.json
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.runtimeconfig.json
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.runtimeconfig.dev.json
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.dll
+D:\leet_code_benim\leetcode28\leetcode28\bin\Debug\netcoreapp3.1\leetcode28.pdb
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.csprojAssemblyReference.cache
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.AssemblyInfoInputs.cache
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.AssemblyInfo.cs
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.csproj.CoreCompileInputs.cache
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.dll
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.pdb
+D:\leet_code_benim\leetcode28\leetcode28\obj\Debug\netcoreapp3.1\leetcode28.genruntimeconfig.cache
