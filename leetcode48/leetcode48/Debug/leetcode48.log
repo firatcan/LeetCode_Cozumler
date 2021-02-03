@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\leet_code_benim\leetcode48\leetcode48\main.cpp(38,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\leet_code_benim\leetcode48\leetcode48\main.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode48\leetcode48\main.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+  leetcode48.vcxproj -> D:\leet_code_benim\leetcode48\Debug\leetcode48.exe
