@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\leet_code_benim\leetcode34\leetcode34\main.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+D:\leet_code_benim\leetcode34\leetcode34\main.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  leetcode34.vcxproj -> D:\leet_code_benim\leetcode34\Debug\leetcode34.exe
