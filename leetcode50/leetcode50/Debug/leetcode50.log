@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASUS\Source\Repos\leetcode50\leetcode50\main.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  leetcode50.vcxproj -> C:\Users\ASUS\Source\Repos\leetcode50\Debug\leetcode50.exe
