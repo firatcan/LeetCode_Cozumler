@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\leet_code_benim\leetcode67\leetcode67\Source.cpp(63,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  leetcode67.vcxproj -> D:\leet_code_benim\leetcode67\Debug\leetcode67.exe
